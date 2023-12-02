@@ -1,1 +1,1 @@
-# solana-npx-client-template
+# solana-update-metadata
