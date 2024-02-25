@@ -5,7 +5,7 @@ reference: https://www.quicknode.com/guides/solana-development/nfts/how-to-updat
 > 1. Setting up : Install package and Create `.env`
 > 2. Part 1 : Fetching existing NFT
 > 3. Part 2 : Update NFT
-> 4. Run Code
+> 4. Run the Code
 
 
 ### Setting up : Install package and Create `.env`
@@ -63,7 +63,7 @@ Declare `newUri` and `imgName` before Step 2 so you won't get an error :
 ![update8](https://github.com/yvonnehouuu/solana-update-metadata/assets/151607390/75cc79b6-6334-45c6-bbea-b5481860e285)
 
 
-## Run Code
+## Run the Code
 ```
 $ npm start
 ```
